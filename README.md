@@ -44,6 +44,13 @@ xlabel('Normalized Digital Frequency w');
 ylabel('Magnitude');
 title('Frequency Response of Chebyshev IIR LPF');
 ```
+
+### CALCULATION:
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-19 at 08 27 55" src="https://github.com/user-attachments/assets/0946321f-64d5-4ff7-895c-0242502e215e" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-19 at 08 28 03" src="https://github.com/user-attachments/assets/e11ac4c2-166c-4276-8796-43ce2b0dc001" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-19 at 08 28 12" src="https://github.com/user-attachments/assets/21644c1b-5a62-4860-899b-bc9cba74919e" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-19 at 08 28 24" src="https://github.com/user-attachments/assets/94d2f227-5403-4ddf-b78b-f46a18dfe38c" />
+
 ### OUTPUT: 
 
 <img width="707" height="552" alt="image" src="https://github.com/user-attachments/assets/1f5a10ab-83d3-4b17-b3e5-d14325e71f70" />
